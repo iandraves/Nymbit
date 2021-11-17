@@ -1,0 +1,11 @@
+/Users/iandraves/Documents/Code/rust_chess/target/rls/debug/build/shakmaty-4d0a464f8030087c/build_script_build-4d0a464f8030087c: /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/build.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/bitboard.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/color.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/magics.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/square.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/types.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/util.rs
+
+/Users/iandraves/Documents/Code/rust_chess/target/rls/debug/build/shakmaty-4d0a464f8030087c/build_script_build-4d0a464f8030087c.d: /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/build.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/bitboard.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/color.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/magics.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/square.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/types.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/util.rs
+
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/build.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/bitboard.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/color.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/magics.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/square.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/types.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/shakmaty-0.20.2/src/util.rs:

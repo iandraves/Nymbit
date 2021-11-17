@@ -1,0 +1,11 @@
+/Users/iandraves/Documents/Code/rust_chess/target/rls/debug/deps/arrayvec-09c3fb5877359d35.rmeta: /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/lib.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec_impl.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/array_string.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/char.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/errors.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/utils.rs
+
+/Users/iandraves/Documents/Code/rust_chess/target/rls/debug/deps/arrayvec-09c3fb5877359d35.d: /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/lib.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec_impl.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/array_string.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/char.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/errors.rs /Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/utils.rs
+
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/lib.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec_impl.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/arrayvec.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/array_string.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/char.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/errors.rs:
+/Users/iandraves/.cargo/registry/src/github.com-1ecc6299db9ec823/arrayvec-0.7.1/src/utils.rs:
