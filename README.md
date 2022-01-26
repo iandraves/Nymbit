@@ -1,2 +1,2 @@
 # Nymbit
-A nimble algorithmic chess engine written in Rust  🦀
+A nimble chess engine written in Rust  🦀
