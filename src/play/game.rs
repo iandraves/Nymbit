@@ -20,12 +20,12 @@ pub fn play_game(random: bool) {
 
         if random {
             // Make best move
-            board.apply_move(search::get_best_move(&board));
+            // board.apply_move(search::get_best_move(&board));
 
             // Make random move
-            // let mut rng = rand::thread_rng();
-            // let ran_move_num = rng.gen_range(0..legal_moves.len());
-            // board.apply_move(legal_moves[ran_move_num]);
+            let mut rng = rand::thread_rng();
+            let ran_move_num = rng.gen_range(0..legal_moves.len());
+            board.apply_move(legal_moves[ran_move_num]);
         } else {
             if board.turn() == Player::White {
                 // Show board
